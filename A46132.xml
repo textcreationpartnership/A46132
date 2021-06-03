@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Impartial account of the several great &amp; successful actions which has been obtain'd by His Majesties forces over the rebellious rapparees in Ireland, since the first of this instant January, 1691 more especially I. That in the province of Ulster by Collonel Woosley, II. That of the Bogg of Allen by Collonel Foulkes, III. That of Lanesborough by Collonel Brewer : in a letter from Dublin, January the 6th, and what was mentioned in the last intelligence printed there.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46132</idno><idno type="EEBO-CITATION">15586509</idno>
+  <idno type="VID">103985</idno>
+  <idno type="EEBO-PROQUEST">2240910956</idno>
+  
+            <idno type="STC">Wing I76A</idno>
+            <idno type="STC">ESTC R36014</idno>
+            <idno type="OCLC">15586509</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46132)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103985)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1150:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Impartial account of the several great &amp; successful actions which has been obtain'd by His Majesties forces over the rebellious rapparees in Ireland, since the first of this instant January, 1691 more especially I. That in the province of Ulster by Collonel Woosley, II. That of the Bogg of Allen by Collonel Foulkes, III. That of Lanesborough by Collonel Brewer : in a letter from Dublin, January the 6th, and what was mentioned in the last intelligence printed there.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Hayhurst,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1691?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Licensed January 13th, 1691, and entred according to order."</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:103985:1"/>
+            <pb facs="tcp:103985:1"/>
+            <head>AN Impartial Account Of the several <hi>Great &amp; Successful Actions.</hi> Which has been obtain'd By His Majesties Forces, Over the Rebellious Rapparees IN IRELAND.</head>
+            <head type="sub">Since the First of this Instant <hi>January,</hi> 1691. More especially,
+<list>
+                  <item>I. That in the Province of <hi>Ʋlster,</hi> by Collonel <hi>Woosley.</hi>
+                  </item>
+                  <item>II. That of the Bogg of <hi>Allen,</hi> by Collonel <hi>Foulkes.</hi>
+                  </item>
+                  <item>III. That of <hi>Lanesborough,</hi> by Collonel <hi>Brewer.</hi>
+                  </item>
+               </list>
+               <hi>In a Letter form</hi> Dublin January <hi>the</hi> 6th. <hi>and what was mentioned in the last Intelligence Printed there.</hi>
+            </head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Licensed</hi>
+                        </p>
+                        <closer>
+                           <dateline>
+                              <date>January 13th. 1691.</date>
+                           </dateline>
+                           <hi>And Entred according to Order.</hi>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>A Few days since, Four Troops of Horse, and Three of Dragoons of the <hi>Irish,</hi> ap<g ref="char:EOLhyphen"/>pear'd on the borders of the Province of <hi>Ʋlster,</hi> with a Reso<g ref="char:EOLhyphen"/>lution to fall in upon some of our little Frontier-Garrisons: But Colo<g ref="char:EOLhyphen"/>nel <hi>Wolsely,</hi> having timely notice of their Designs, by the means of some Deserters, Ordered a considerable De<g ref="char:EOLhyphen"/>tachment of <hi>Inniskilling</hi> Horse, after them, who coming up with them, after a short Dispute, gave their whole Party a Total Defeat; kil<g ref="char:EOLhyphen"/>ling, and taking Prisoners, about One Hundred and Twenty of the Enemy.</p>
+            <p>From the Island of <hi>Allen</hi> of the 4th. in the Afternoon, we have an Account that Collonel <hi>Foulkes,</hi> and the Party under his Command, on <hi>Saturday</hi> last march'd to <hi>Togher Greggs,</hi> on the entrance of the Bog of <hi>Allen,</hi> and came there about a E<g ref="char:EOLhyphen"/>leven a Clock at Night. The Rap<g ref="char:EOLhyphen"/>parees being Allarm'd at the approach
+<pb facs="tcp:103985:2"/>of our Men, came within Musquet Shot of us, and Allarm'd us most part of the Night. On <hi>Sunday</hi> morn<g ref="char:EOLhyphen"/>ing by break of day, Collonel <hi>Foulkes</hi> advanced to the <hi>Togher,</hi> which the Rebels seemed as if they would de<g ref="char:EOLhyphen"/>fend, but finding our Men resolved to have the Pass, they quitted it, and gave them only the trouble of filling up the Trenches they had made cross the <hi>Togher,</hi> which were twelve in number, which being done, we marcht our Horse over, and so went to the Island of <hi>Allen,</hi> where he met Collo<g ref="char:EOLhyphen"/>nel <hi>Piper,</hi> whose Passage was no less easie. The Rebels betook themselves to the Woods, which are so great that it will give us some trouble to hunt them out of their Fastnesses. It's believed the Enemy have in these Woods about 1000 Foot, besides some Horse, and are much encou<g ref="char:EOLhyphen"/>raged by the Protected <hi>Irish</hi> therea-abouts, who upon all occasion are ready to joyn with them.</p>
+            <p>On <hi>Wedensday</hi> the 6th of <hi>Januray</hi> part of our Army under the Com<g ref="char:EOLhyphen"/>mand of Collonel <hi>Brewer</hi> of with some Field pieces, marcht from our Fron<g ref="char:EOLhyphen"/>tiers towards <hi>Lanesboroug:</hi> The Ene<g ref="char:EOLhyphen"/>my to the number of about 3000 had posted themselves on the Passes on the Bogg, at some distance from the Town, where they had raised above twenty several Trenches cross the <hi>Togher</hi> on the Bogg, which they from one to another disputed, but at last, with the loss of about three hundred of their men, were beaten back to the Town; the Fort on this end of the Bridge, they in some measure de<g ref="char:EOLhyphen"/>molished, and quitting that and the Town in great Confusion retired be<g ref="char:EOLhyphen"/>yond the <hi>Shannon.</hi> Collonel <hi>Brewer</hi> possessed himself of the Town and Fort, and placed a Garrison of about three hundred men there, who it's be<g ref="char:EOLhyphen"/>lievd will soon repair the Bridge, so as to be able to march into <hi>Con<g ref="char:EOLhyphen"/>nought.</hi>
+            </p>
+            <p>We have likewise an Account from the Frontiers of the <hi>North,</hi> That Lieu<g ref="char:EOLhyphen"/>tenant General <hi>Douglas</hi> has lately gained a Considerable Fort from the Enemy; which opens a Material Road between the Provinces of <hi>Connaught</hi> and <hi>Ʋlster.</hi>
+            </p>
+            <p>Lieutenant General <hi>Ginkle</hi> is now by the Banks of the <hi>Shannon,</hi> with a great Body of our Army. He has with him a great Number of <hi>Dutch</hi>- built Boats in the River; and we are hourly in Expectation of his hearing of his putting in Execution some con<g ref="char:EOLhyphen"/>siderable Enterprise.</p>
+            <p>Fifteen Ships in Their Majesties Service, with a Convoy are ordered to Sail immediately hence to <hi>Corke,</hi> to receive on board the Prisoners of War that are in Custody in that place and thereabout.</p>
+            <p>The Lords Justices having receiv'd Information, That several <hi>Irish</hi> Spies, of Considerable Note, were lurking a<g ref="char:EOLhyphen"/>bout this City, they Ordered Dili<g ref="char:EOLhyphen"/>gent search to be made after them, and on <hi>Wednesday</hi> last, Three of them were apprehended, and secured in the Castle, in order to receive Con<g ref="char:EOLhyphen"/>dign Punishment.</p>
+            <p>The <hi>Sunday</hi> after the Arrival of Sir <hi>Charles Porter,</hi> both of the Lords Justices went to the Castle; from whence they brought the Sword of State, <hi>&amp;c.</hi> And went in great Spendour to S. <hi>Warbrough</hi>'s-Church.</p>
+            <div type="publishers_advertisement">
+               <head>ADVERTISMENT.</head>
+               <p>
+                  <hi>VIllare Hibernicum,</hi> Being an Ex<g ref="char:EOLhyphen"/>act Account of all the <hi>Provinces, Counties, Cities, Arch-Bishopricks, Bishopricks, Town. Castles, Fortifications, Garrisons.</hi> And most considerable Vil<g ref="char:EOLhyphen"/>lages, and Places of Strength, which have been Reduc'd by His Majesties Arms, Since his first Landing in <hi>IRE<g ref="char:EOLhyphen"/>LAND:</hi> With an Impartial Journal of the <hi>Siege of Lymerick,</hi> and of the Martial Actions of the <hi>Royal Army,</hi> since the Kings Return to <hi>England.</hi> As also, the Siege and Surrender of <hi>Cork</hi> and <hi>Kin-sale,</hi> By <hi>W. Griffith,</hi> Esq;</p>
+               <p>
+                  <hi>London</hi> Printed for, and are to be Sold by <hi>Rob. Hayhurst,</hi> at his House in <hi>Little-Britain,</hi> 1691.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed, for R. <hi>Hayhurst</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
